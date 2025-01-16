@@ -1,4 +1,4 @@
-# Nigeria-Covid-19-Data-Analysis-for-the-Year-2020lysis
+# Nigeria-Covid-19-Data-Analysis-for-the-Year-2020
 Nigeria was severely affected by the COVID-19 epidemic, which had an effect on social institutions, education, the economy, and health. It caused delays in vaccination distribution, stressed the healthcare system, and revealed infrastructure flaws. Due to devalued currency and broken supply chains, the nation's economy went through a recession, with increased unemployment, poverty, and inflation. School closures caused significant disruptions to education by widening the learning gaps and making remote learning less successful because of poor internet access. 
 
 Data Source: Kaggle.com
